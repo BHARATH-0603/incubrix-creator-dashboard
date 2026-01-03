@@ -31,7 +31,7 @@ Tech Stack
 
 How to Run Locally
 
-### Backend
+Backend
 ```bash
 cd backend
 npm install
