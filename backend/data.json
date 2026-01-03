@@ -1,0 +1,16 @@
+[
+  { "id": 1, "platform": "YouTube", "date": "2025-01-01", "views": 12000, "likes": 900, "comments": 120, "followers_gained": 200 },
+  { "id": 2, "platform": "Instagram", "date": "2025-01-01", "views": 8000, "likes": 1100, "comments": 180, "followers_gained": 350 },
+
+  { "id": 3, "platform": "YouTube", "date": "2025-01-02", "views": 15000, "likes": 1200, "comments": 160, "followers_gained": 280 },
+  { "id": 4, "platform": "Instagram", "date": "2025-01-02", "views": 9500, "likes": 1300, "comments": 210, "followers_gained": 420 },
+
+  { "id": 5, "platform": "YouTube", "date": "2025-01-03", "views": 18000, "likes": 1600, "comments": 240, "followers_gained": 310 },
+  { "id": 6, "platform": "Instagram", "date": "2025-01-03", "views": 11000, "likes": 1500, "comments": 260, "followers_gained": 480 },
+
+  { "id": 7, "platform": "YouTube", "date": "2025-01-04", "views": 14000, "likes": 1000, "comments": 140, "followers_gained": 220 },
+  { "id": 8, "platform": "Instagram", "date": "2025-01-04", "views": 10000, "likes": 1400, "comments": 230, "followers_gained": 390 },
+
+  { "id": 9, "platform": "YouTube", "date": "2025-01-05", "views": 20000, "likes": 1800, "comments": 300, "followers_gained": 360 },
+  { "id": 10, "platform": "Instagram", "date": "2025-01-05", "views": 12500, "likes": 1700, "comments": 290, "followers_gained": 520 }
+]
